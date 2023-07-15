@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Cho Yoon Seong
+- 👋 Hi, I’m Cho Yoon Seong, Blues
   ![다운로드](https://github.com/chongal0217/chongal0217/assets/127908929/ebcdd53e-e32d-46b2-b792-b4c2ca107d4b)
 
 <!---
