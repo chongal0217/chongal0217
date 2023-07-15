@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cho Yoon Seong, Blues
-  ![다운로드](https://github.com/chongal0217/chongal0217/assets/127908929/ebcdd53e-e32d-46b2-b792-b4c2ca107d4b)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcys0217&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!---
 chongal0217/chongal0217 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
