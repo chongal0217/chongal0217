@@ -4,6 +4,8 @@
 
 ![Cys0217's GitHub stats](https://github-readme-stats.vercel.app/api?username=chongal0217&show_icons=true&theme=tokyonight)
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chongal0217)](https://solved.ac/chongal0217)
+
 <!---
 chongal0217/chongal0217 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
